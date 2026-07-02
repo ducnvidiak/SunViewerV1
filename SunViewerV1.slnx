@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Common/Common.vcxproj" Id="b5cc3024-87bd-4bf8-ba7b-13cf0e492b30" />
+  <Project Path="Sender/Sender.vcxproj" Id="01b09bca-c804-487e-a5a2-5f281ca35b0c" />
+  <Project Path="Viewer/Viewer.vcxproj" Id="4032e889-0dc2-4721-bd0b-8e71a5a2fdf2" />
+</Solution>
